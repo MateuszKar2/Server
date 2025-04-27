@@ -1,4 +1,4 @@
-# Server
+ # Server
 
 A simple backend server built with **Node.js** and **Express**. Designed as a starting point for handling API routes, middleware, and basic server functionality.
 
